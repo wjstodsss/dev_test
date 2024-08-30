@@ -1,5 +1,5 @@
 # dev_test
 a {}
 d {}
-c{}
+c {}
 b {}
